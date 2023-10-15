@@ -7728,7 +7728,7 @@
         "qa": [
             "Question 1: What is the Inventory Turnover Ratio for the year 2003?\nAnswer 1: Using the formula <Inventory Turnover Ratio = Cost of Goods Sold / Average Inventory>, we can assume the Cost of Goods Sold and Average Inventory from the given report.\n\nQuestion 2: What is the Net Profit Margin for the year 2003?\nAnswer 2: Using the formula <Net Profit Margin = Net Profit / Revenue>, we can assume the Net Profit and Revenue from the given report.\n\nQuestion 3: What is the Return on Assets for the year 2003?\nAnswer 3: Using the formula <Return on Assets = Net Income / Total Assets>, we can assume the Net Income and Total Assets from the given report.\n\nQuestion 4: What is the Asset Turnover Ratio for the year 2003?\nAnswer 4: Using the formula <Asset Turnover Ratio = Net Sales / Total Assets>, we can assume the Net Sales and Total Assets from the given report.\n\nQuestion 5: What is the Gross Profit Margin for the year 2003?\nAnswer 5: Using the formula <Gross Profit Margin = (Gross Profit / Revenue) x 100>, we can assume the Gross Profit and Revenue from the given report."
         ],
-        "doc_id": 178
+        "doc_id": 132
     },
     {
         "select_gpt_table": [
@@ -7759,7 +7759,7 @@
         "qa": [
             "Question 1: What is the Diluted Earnings per Share (EPS)?\nAnswer 1: Using the formula <Diluted EPS = (Net Income - Dividends on Preferred Stock) / (Outstanding Shares + Convertible Unexercised Options)>, we can find the answer if we know the Net Income and Dividends on Preferred Stock.\n\nQuestion 2: What is the Weighted Average Cost of Capital (WACC)?\nAnswer 2: The formula for WACC is <WACC = (E/V) * Cost of Equity + (D/V) * Cost of Debt * (1 - Tax Rate)>. To find the answer, we need to know the market values of equity (E) and debt (D), the cost of equity, the cost of debt, and the corporate tax rate.\n\nQuestion 3: What is the Equity Value per Share?\nAnswer 3: Using the formula <Equity Value per Share = (Total Equity Value - Preferred Stock - Minority Interest) / Number of Outstanding Shares>, we can find the answer if we know the Total Equity Value, Preferred Stock, Minority Interest, and Number of Outstanding Shares.\n\nQuestion 4: What is the Expected Rate of Return on Equity?\nAnswer 4: The formula for the Expected Rate of Return on Equity is <Expected Rate of Return on Equity = Risk-Free Rate + Beta * (Market Return - Risk-Free Rate)>. To find the answer, we need to know the risk-free rate, the beta of the stock, and the expected market return. \n\nQuestion 5: What is the Return on Equity (ROE)?\nAnswer 5: The formula for ROE is <ROE = Net Income / Shareholder's Equity>. To find the answer, we need to know the Net Income and Shareholder's Equity."
         ],
-        "doc_id": 179
+        "doc_id": 133
     },
     {
         "select_gpt_table": [
@@ -7796,7 +7796,7 @@
         "qa": [
             "Question 1: What is the Diluted Earnings Per Share (EPS) if the Net Income in 2019 is 10 million and there are 2 million shares of convertible preferred stock?\nAnswer 1: Using the formula <Diluted EPS = (Net Income - Preferred Dividends) / (Common Shares Outstanding + Convertible Preferred Shares)>, we need to assume that there are no preferred dividends. So the answer would be 10 / (1217121 + 2000000).\n\nQuestion 2: What is the Options Overhang if there are 10 million common shares outstanding?\nAnswer 2: Using the formula <Options Overhang = Outstanding Stock Options / Common Shares Outstanding>, we know that Outstanding Stock Options is 1217121 and Common Shares Outstanding is 10 million. So the answer would be 1217121 / 10000000.\n\nQuestion 3: What is the Shareholder Value Transfer (SVT) if the current stock price is $100?\nAnswer 3: Using the formula <SVT = (Number of Options * Option Value) / Market Value of Company>, where Option Value = Current Stock Price - Exercise Price of the Option, we know the number of options is 1217121, the exercise price is 308.10 and the Market Value of the Company is the current stock price multiplied by the number of common shares outstanding. Assuming the number of common shares outstanding is 10 million, the answer would be (1217121 * (100 - 308.10)) / (100 * 10000000)."
         ],
-        "doc_id": 180
+        "doc_id": 134
     },
     {
         "select_gpt_table": [
@@ -7839,7 +7839,7 @@
         "qa": [
             "Question 1: What is the total square footage of the leased properties?\nAnswer 1: Using the formula <Total square footage of leased properties = sum of square footage of individual leased properties>, we can add the square footage of the properties listed as leased.\n\nQuestion 2: What percentage of the Woburn property is occupied by the company's lease administration office and broadcast division?\nAnswer 2: Using the formula <Percentage of occupied space = (Occupied square footage / Total square footage) * 100>, we can calculate the percentage of the Woburn property that is occupied by the company's lease administration office and broadcast division.\n\nQuestion 3: What is the average square footage per property?\nAnswer 3: Using the formula <Average square footage per property = Total square footage / Number of properties>, we can calculate the average square footage of the properties listed in the report.\n\nQuestion 4: What is the rentable square footage in the Woburn property?\nAnswer 4: Using the formula <Rentable square footage = Total square footage - Occupied square footage>, we can calculate the square footage of the Woburn property that is available for rent. \n\nQuestion 5: If the company wants to expand its operations and needs additional 10,000 square feet, how many more properties of the average size would it need to lease or purchase?\nAnswer 5: Using the formula <Number of properties needed = Additional square footage needed / Average square footage per property>, we can calculate how many more properties of the average size the company would need to lease or purchase to get the additional square footage."
         ],
-        "doc_id": 181
+        "doc_id": 135
     },
     {
         "select_gpt_table": [
@@ -7900,7 +7900,7 @@
         "qa": [
             "Question 1: What would be the change in 2012 pension expense if there is a 1% decrease in the discount rate?\nAnswer 1: Using the formula <Change in Pension Expense = Change in Assumption * Estimated Increase to Pension Expense>, where the Change in Assumption is 1% and the Estimated Increase to Pension Expense is ￥23 for a 0.5% decrease, the answer would be 1/0.5*23 = ￥46 million.\n\nQuestion 2: What is the total potential exposure for the loss share arrangements on the outstanding loans sold under the FNMA and FHLMC programs as of December 31, 2011?\nAnswer 2: Using the formula <Total Potential Exposure = Outstanding Principal Balance * Risk of Loss Share>, where the Outstanding Principal Balance is ￥13.0 billion and the Risk of Loss Share is one-third, the answer would be 13.0/3 = ￥4.33 billion.\n\nQuestion 3: What is the change in reserve for losses under the FNMA and FHLMC programs from December 31, 2010 to December 31, 2011?\nAnswer 3: Using the formula <Change in Reserve for Losses = Reserve for Losses (end of period) - Reserve for Losses (beginning of period)>, where the Reserve for Losses at the end of period is ￥47 million and at the beginning of period is ￥54 million, the answer would be 47-54 = -￥7 million."
         ],
-        "doc_id": 182
+        "doc_id": 136
     },
     {
         "select_gpt_table": [
@@ -7941,7 +7941,7 @@
         "qa": [
             "Timeout, returning default value"
         ],
-        "doc_id": 183
+        "doc_id": 137
     },
     {
         "select_gpt_table": [
@@ -7968,7 +7968,7 @@
         "qa": [
             "Question 1: What is the Weighted Average Cost of Capital (WACC) for 2010?\nAnswer 1: Using the formula <WACC = (E/V * Re) + ((D/V * Rd) * (1 - Tax Rate))>, we need to know the market value of equity (E), the market value of debt (D), the cost of equity (Re), the cost of debt (Rd), and the corporate tax rate.\n\nQuestion 2: What is the return on investment for the corporate and asset-backed securities in 2010?\nAnswer 2: Using the formula <Return on Investment = (Current Value of Investment - Cost of Investment) / Cost of Investment>, we need to know the cost of investment in corporate and asset-backed securities.\n\nQuestion 3: What is the Debt to Equity ratio for 2010?\nAnswer 3: Using the formula <Debt to Equity Ratio = Total Debt / Total Equity>, we need to know the total debt and total equity for 2010.\n\nQuestion 4: What is the Earnings Before Interest and Taxes (EBIT) for 2010?\nAnswer 4: Using the formula <EBIT = Net Income + Interest + Taxes>, we need to know the net income, interest, and taxes for 2010.\n\nQuestion 5: What is the Return on Assets (ROA) for 2010?\nAnswer 5: Using the formula <ROA = Net Income / Total Assets>, we need to know the net income and total assets for 2010."
         ],
-        "doc_id": 184
+        "doc_id": 138
     },
     {
         "select_gpt_table": [
@@ -8009,7 +8009,7 @@
         "qa": [
             "Question 1: What is the Earnings per Share (EPS) in 2009?\nAnswer 1: Using the formula <EPS = (Net Income - Dividends on Preferred Stock) / Average Outstanding Shares>, we know that Net Income is -335360, Dividends on Preferred Stock is 0 (assuming there is no preferred stock), and Average Outstanding Shares is 201206. So the answer is (-335360 - 0) / 201206.\n\nQuestion 2: What is the Diluted Earnings per Share (DEPS) in 2009?\nAnswer 2: Using the formula <DEPS = (Net Income - Dividends on Preferred Stock) / (Common Shares Outstanding + Dilutive Securities)>, we know that Net Income is -335360, Dividends on Preferred Stock is 0 (assuming there is no preferred stock), Common Shares Outstanding is 201206, and Dilutive Securities is 0 (as there are no dilutive securities in 2009). So the answer is (-335360 - 0) / (201206 + 0).\n\nQuestion 3: What is the tax shield for the dividends paid to shareholders in 2009?\nAnswer 3: As the company is a REIT, it gets a tax deduction for the dividends it pays to shareholders. The tax shield can be calculated using the formula <Tax Shield = Tax Rate * Debt>. In this case, we don't have the specific numbers for Tax Rate and Debt. However, the concept of a tax shield would apply. \n\nQuestion 4: What is the dividend payout ratio in 2007?\nAnswer 4: Using the formula <Dividend Payout Ratio = Dividends / Net Income>, we know that Dividends is -1149 (assuming negative dividends means they were not paid), and Net Income is 210793. So the answer is -1149 / 210793."
         ],
-        "doc_id": 185
+        "doc_id": 139
     },
     {
         "select_gpt_table": [
@@ -8070,7 +8070,7 @@
         "qa": [
             "Question 1: What is the Debt-to-Equity Ratio after the merger?\nAnswer 1: Using the formula <Debt-to-Equity Ratio = Total Debt / Total Equity>, we can calculate the Debt-to-Equity Ratio. The Total Debt can be assumed as the amount borrowed under the credit agreement (￥2.35 billion). However, the Total Equity is not provided in the report and needs to be calculated or provided.\n\nQuestion 2: What is the Earnings Per Share (EPS) after the merger?\nAnswer 2: Using the formula <EPS = (Net Income - Dividends on Preferred Stock) / Average Outstanding Shares>, we can calculate the EPS. However, the Net Income and Dividends on Preferred Stock are not provided in the report and need to be calculated or provided. The Average Outstanding Shares can be assumed as the number of Hologic common shares issued in the merger (132 million).\n\nQuestion 3: What is the Price-to-Earnings (P/E) ratio after the merger?\nAnswer 3: Using the formula <P/E Ratio = Market Value per Share / Earnings per Share (EPS)>, we can calculate the P/E Ratio. The Market Value per Share can be assumed as the weighted average stock price (￥27.81). However, the EPS is not provided in the report and needs to be calculated or provided.\n\nQuestion 4: What is the Return on Equity (ROE) after the merger?\nAnswer 4: Using the formula <ROE = Net Income / Shareholder's Equity>, we can calculate the ROE. However, the Net Income and Shareholder's Equity are not provided in the report and need to be calculated or provided. \n\nQuestion 5: What is the Current Ratio after the merger?\nAnswer 5: Using the formula <Current Ratio = Current Assets / Current Liabilities>, we can calculate the Current Ratio. However, the Current Assets and Current Liabilities are not provided in the report and need to be calculated or provided."
         ],
-        "doc_id": 186
+        "doc_id": 140
     },
     {
         "select_gpt_table": [
@@ -8109,7 +8109,7 @@
         "qa": [
             "Question 1: What is the Earnings Before Interest and Taxes (EBIT) for 2016?\nAnswer 1: Using the formula <EBIT = Revenue - Operating Expenses + Non-operating Income>, we can assume the missing variables, Revenue and Operating Expenses, are not present and cannot be calculated.\n\nQuestion 2: What is the Net Interest Expense for 2016?\nAnswer 2: Using the formula <Net Interest Expense = Interest Incurred - Capitalized Interest>, we know the Interest Incurred is ￥148.4 million and the Capitalized Interest is ￥32.9 million. So, the answer is 148.4 - 32.9 = ￥115.5 million.\n\nQuestion 3: What is the After-Tax Loss on Extinguishment of Debt in 2016?\nAnswer 3: Using the formula <After-Tax Loss = Loss on Extinguishment of Debt * (1 - Tax Rate)>, we know the Loss on Extinguishment of Debt is ￥6.9 million and the Tax Rate is 27.5%. So, the answer is 6.9 * (1 - 0.275) = ￥5 million.\n\nQuestion 4: What is the Net Present Value of the bond redemption in 2015?\nAnswer 4: Using the formula <NPV = ∑ (Cash inflow/outflow / (1+r)^n) - Initial Investment>, we know the cash outflow is ￥146.6 million, the cash inflow is the carrying value of ￥130 million, the discount rate (r) and the number of periods (n) are not given, so we cannot calculate the NPV. \n\nQuestion 5: What is the Effective Interest Rate on the Versum notes issued in 2016?\nAnswer 5: Using the formula <Effective Interest Rate = (Total Interest Paid / Principal) * 100>, we know the total interest paid is not given, and the principal is ￥425 million, so we cannot calculate the Effective Interest Rate."
         ],
-        "doc_id": 187
+        "doc_id": 141
     },
     {
         "select_gpt_table": [
@@ -8194,7 +8194,7 @@
         "qa": [
             "Question 1: What was the Severance Pay per Employee for the fiscal year ended September 30, 2005?\nAnswer 1: Using the formula <Severance Pay per Employee = Total Severance Costs / Number of Employees Terminated>, we can calculate this by dividing the total severance costs by the number of employees terminated. \n\nQuestion 2: What is the average yearly change in total accrued expenses and other from September 30, 2003, to September 30, 2005?\nAnswer 2: Using the formula <Average Yearly Change = (Final Value - Initial Value) / Number of Years>, we can calculate this by subtracting the initial value from the final value and dividing by the number of years.\n\nQuestion 3: What is the change in the company's lease cancellation costs and other from 2003 to 2005?\nAnswer 3: Using the formula <Change = Final Value - Initial Value>, we can calculate this by subtracting the initial value from the final value.\n\nQuestion 4: What was the average cost per employee for lease cancellation and other costs in the fiscal year ended September 30, 2005?\nAnswer 4: Using the formula <Average Cost per Employee = Total Lease Cancellation and Other Costs / Number of Employees>, we can calculate this by dividing the total lease cancellation and other costs by the number of employees. \n\nQuestion 5: What is the percentage change in employee severance costs from the fiscal year ended September 30, 2004, to the fiscal year ended September 30, 2005?\nAnswer 5: Using the formula <Percentage Change = ((Final Value - Initial Value) / Initial Value) * 100>, we can calculate this by subtracting the initial value from the final value, dividing by the initial value, and multiplying by 100."
         ],
-        "doc_id": 189
+        "doc_id": 142
     },
     {
         "select_gpt_table": [
@@ -8283,7 +8283,7 @@
         "qa": [
             "Question 1: What is the Gross Profit for the year 2009?\nAnswer 1: Using the formula <Gross Profit = Sales - Cost of Goods Sold>, we don't have information about Cost of Goods Sold. We need this value to calculate the Gross Profit.\n\nQuestion 2: What is the Return on Sales for the year 2009?\nAnswer 2: Using the formula <Return on Sales = Operating Profit / Sales>, we know the Operating Profit is ￥433 million and the Sales is ￥3060 million. So the answer is 433/3060.\n\nQuestion 3: What is the Net Profit Margin for the year 2009?\nAnswer 3: Using the formula <Net Profit Margin = Net Income / Sales>, we don't have information about Net Income. We need this value to calculate the Net Profit Margin.\n\nQuestion 4: What is the Operating Profit Margin for the year 2009?\nAnswer 4: Using the formula <Operating Profit Margin = Operating Profit / Sales>, we know the Operating Profit is ￥433 million and the Sales is ￥3060 million. So the answer is 433/3060.\n\nQuestion 5: What is the Asset Turnover Ratio for the year 2009?\nAnswer 5: Using the formula <Asset Turnover Ratio = Sales / Average Total Assets>, we don't have information about Average Total Assets. We need this value to calculate the Asset Turnover Ratio."
         ],
-        "doc_id": 190
+        "doc_id": 143
     },
     {
         "select_gpt_table": [
@@ -8360,7 +8360,7 @@
         "qa": [
             "Question 1: What is the Return on Equity (ROE) for the year 2014?\nAnswer 1: To calculate ROE, we need the formula <ROE = Net Income / Shareholder's Equity>. The Net Income and Shareholder's Equity values are not provided in the report.\n\nQuestion 2: What is the Equity Ratio for the year 2014?\nAnswer 2: The Equity Ratio can be calculated using the formula <Equity Ratio = Total Equity / Total Assets>. However, the Total Assets value is not given in the report.\n\nQuestion 3: What is the Debt to Equity ratio for the year 2014?\nAnswer 3: The Debt to Equity ratio can be calculated using the formula <Debt to Equity Ratio = Total Debt / Total Equity>. However, the Total Debt value is not given in the report.\n\nQuestion 4: What is the Profit Margin for the year 2014?\nAnswer 4: To calculate the Profit Margin, we need the formula <Profit Margin = Net Income / Sales>. The Net Income and Sales values are not provided in the report.\n\nQuestion 5: What is the Earnings Per Share (EPS) for the year 2014?\nAnswer 5: The EPS can be calculated using the formula <EPS = Net Income / Number of Outstanding Shares>. However, the Net Income and Number of Outstanding Shares values are not given in the report."
         ],
-        "doc_id": 191
+        "doc_id": 144
     },
     {
         "select_gpt_table": [
@@ -8397,7 +8397,7 @@
         "qa": [
             "Question 1: What is the Compound Annual Growth Rate (CAGR) of Allegion plc from November 18, 2013 to December 31, 2016?\nAnswer 1: Using the formula <CAGR = (Ending Value / Beginning Value)^(1/n) - 1>, where n is the number of years. In this case, the beginning value is 100.00, the ending value is 134.67 and n is approximately 3.12 (from November 18, 2013 to December 31, 2016).\n\nQuestion 2: What is the average annual return of the S&P 500 from November 18, 2013 to December 31, 2016?\nAnswer 2: Using the formula <Average Annual Return = [(1 + Total Return)^(1/n)] - 1>, where n is the number of years. In this case, the total return is (133.48 - 100.00) / 100.00 and n is approximately 3.12 (from November 18, 2013 to December 31, 2016).\n\nQuestion 3: What is the annualized volatility of the S&P 400 Capital Goods from November 18, 2013 to December 31, 2016?\nAnswer 3: Using the formula <Annualized Volatility = Standard Deviation of the Return * sqrt(n)>, where n is the number of years. The standard deviation of the return can be calculated from the yearly returns from November 18, 2013 to December 31, 2016 and n is approximately 3.12."
         ],
-        "doc_id": 192
+        "doc_id": 145
     },
     {
         "select_gpt_table": [
@@ -8424,7 +8424,7 @@
         "qa": [
             "Question 1: What is the Compound Annual Growth Rate (CAGR) of LKQ Corporation from 2011 to 2016?\nAnswer 1: Using the formula <CAGR = (Ending Value / Beginning Value)^(1/Number of Years) - 1>, we know the beginning value in 2011 is 100 and the ending value in 2016 is 204, so the answer is (204/100)^(1/5) - 1.\n\nQuestion 2: What is the average annual return of the S&P 500 index from 2011 to 2016?\nAnswer 2: Using the formula <Average Annual Return = [(Ending Value / Beginning Value)^(1/Number of Years)] - 1>, we know the beginning value in 2011 is 100 and the ending value in 2016 is 178, so the answer is (178/100)^(1/5) - 1.\n\nQuestion 3: What is the Return on Investment (ROI) for the Peer Group from 2011 to 2016?\nAnswer 3: Using the formula <ROI = (Ending Value - Beginning Value) / Beginning Value>, we know the beginning value in 2011 is 100 and the ending value in 2016 is 217, so the answer is (217 - 100) / 100. \n\nQuestion 4: If the risk-free rate is 2%, what is the excess return of LKQ Corporation over the risk-free rate from 2011 to 2016?\nAnswer 4: Using the formula <Excess Return = Total Return - Risk-Free Rate>, we can find the total return using the formula for CAGR as in Question 1 and subtract the risk-free rate of 2%."
         ],
-        "doc_id": 193
+        "doc_id": 146
     },
     {
         "select_gpt_table": [
@@ -8489,7 +8489,7 @@
         "qa": [
             "Question 1: What was the price volatility index for WTI crude oil in 2009?\nAnswer 1: Using the formula <Price Volatility Index = (High price - Low price) / Average price>, we need the high price, low price, and average price of WTI crude oil in 2009, which are not provided in the report.\n\nQuestion 2: What was the percentage change in the Henry Hub natural gas price from 2007 to 2009?\nAnswer 2: Using the formula <Percentage Change = ((New Value - Old Value) / Old Value) * 100>, we need the old value (price in 2007) and the new value (price in 2009), which are not provided in the report.\n\nQuestion 3: What was the gross profit margin for the company in 2009?\nAnswer 3: Using the formula <Gross Profit Margin = (Total Revenue - Cost of Goods Sold) / Total Revenue>, we need the total revenue and cost of goods sold, which are not provided in the report.\n\nQuestion 4: What was the average cost per barrel of WTI crude oil in 2009?\nAnswer 4: Using the formula <Average Cost = Total Cost / Number of Units>, we need the total cost and number of units (barrels), which are not provided in the report.\n\nQuestion 5: What was the company's return on investment (ROI) for 2009?\nAnswer 5: Using the formula <ROI = (Net Profit / Cost of Investment) * 100>, we need the net profit and cost of investment, which are not provided in the report."
         ],
-        "doc_id": 194
+        "doc_id": 147
     },
     {
         "select_gpt_table": [
@@ -8556,7 +8556,7 @@
         "qa": [
             "Question 1: What would be the Debit Valuation Adjustment (DVA) sensitivity if the Jpmorgan Chase's credit spread increased by 2 basis points on December 31, 2008?\nAnswer 1: Using the formula <DVA Sensitivity = Sensitivity for 1 basis point * Increase in Basis Points>, we know the sensitivity for 1 basis point on December 31, 2008 is ￥32 and the increase in basis points is 2, so the answer is 32*2=￥64 million.\n\nQuestion 2: If the firm wants to maintain the Value at Risk (VaR) at the level of ¥85 million under a 95% confidence interval, how many times a year can the firm expect to incur daily losses greater than those predicted by VaR estimates?\nAnswer 2: Using the formula <Expected Exceedance = Number of Trading Days * (1- Confidence Level)>, we assume there are 252 trading days in a year and the confidence level is 95%, so the answer is 252*(1-0.95)= approximately 13 times a year.\n\nQuestion 3: If the firm expects an increase in interest rates, how would this impact the firm's net interest income and pre-tax earnings?\nAnswer 3: This requires the use of the formula <Net Interest Income = Interest Income - Interest Expense> and the formula <Pre-tax Earnings = Gross Income - Operating Expenses>. The exact impact would depend on the specifics of the interest rate increase and the firm's interest income and expense. However, generally, an increase in interest rates would increase both the firm's interest income and expense, and thus could impact the net interest income and pre-tax earnings."
         ],
-        "doc_id": 195
+        "doc_id": 148
     },
     {
         "select_gpt_table": [
@@ -8615,7 +8615,7 @@
         "qa": [
             "Question 1: What is the Debt to Equity ratio for Hologic, Inc. after the merger?\nAnswer 1: Using the formula <Debt to Equity Ratio = Total Debt / Total Equity>, we know the Total Debt is ￥2,350,000 (borrowed under the credit agreement) but the Total Equity is not provided in the report, thus we cannot calculate it without this information.\n\nQuestion 2: What is the Earnings Per Share (EPS) for Hologic, Inc. after the merger?\nAnswer 2: Using the formula <Earnings Per Share (EPS) = (Net Income - Dividends on Preferred Stock) / Average Outstanding Shares>, we know the number of shares (132,038) but Net Income and Dividends on Preferred Stock are not provided in the report, thus we cannot calculate it without this information.\n\nQuestion 3: What is the Price to Earnings ratio for Hologic, Inc. after the merger?\nAnswer 3: Using the formula <Price to Earnings Ratio = Market Value per Share / Earnings Per Share (EPS)>, we know the market value per share (￥27.81) but Earnings Per Share (EPS) is not provided in the report, thus we cannot calculate it without this information.\n\nQuestion 4: What is the return on equity for Hologic, Inc. after the merger?\nAnswer 4: Using the formula <Return on Equity = Net Income / Shareholder's Equity>, we know neither the Net Income nor the Shareholder's Equity is provided in the report, thus we cannot calculate it without this information. \n\nQuestion 5: What is the Book Value per share for Hologic, Inc. after the merger?\nAnswer 5: Using the formula <Book Value per Share = (Total Equity - Preferred Equity) / Number of Outstanding Shares>, we know the number of shares (132,038) but neither the Total Equity nor the Preferred Equity is provided in the report, thus we cannot calculate it without this information."
         ],
-        "doc_id": 196
+        "doc_id": 149
     },
     {
         "select_gpt_table": [
@@ -8648,7 +8648,7 @@
         "qa": [
             "Question 1: What is the Diluted Shares Outstanding at the end of 2013?\nAnswer 1: Using the formula <Diluted Shares Outstanding = Basic Shares Outstanding + Shares from Conversion of Convertible Securities + Shares from Exercise of Options and Warrants + Shares from Employee Stock Plans>, we know the number of securities to be issued upon exercise of outstanding options, warrants, and rights is 151945, and the number of unvested restricted stock and performance units is 1534294. We can assume the Basic Shares Outstanding and Shares from Conversion of Convertible Securities do not exist, so the answer is 151945+1534294=1685239 shares.\n\nQuestion 2: What is the Expected Price per Share under the equity compensation plans approved by securityholders?\nAnswer 2: Using the formula <Expected Price per Share = Total Equity Value / Fully Diluted Shares>, we know the number of securities to be issued upon exercise of outstanding options, warrants, and rights is 151945, and the number of securities remaining available for future issuance under equity compensation plans is 2140954. We can assume the Total Equity Value is the sum of these two, so the answer is (151945+2140954)/1685239=￥1.57 per share.\n\nQuestion 3: What is the Dilution Ratio for the equity compensation plans approved by securityholders?\nAnswer 3: Using the formula <Dilution Ratio = (New Shares Issued / Total Shares After Issuance)>, we know the number of securities to be issued upon exercise of outstanding options, warrants, and rights is 151945, and the total shares after issuance is 1685239. So the answer is 151945/1685239=9.02%."
         ],
-        "doc_id": 197
+        "doc_id": 150
     },
     {
         "select_gpt_table": [
@@ -8675,7 +8675,7 @@
         "qa": [
             "Question 1: What is the Compound Annual Growth Rate (CAGR) of Vornado Realty Trust from 2007 to 2012?\nAnswer 1: Using the formula <CAGR = (Ending Value / Beginning Value)^(1/n) - 1>, where n is the number of years, we know the beginning value is ￥100 and the ending value is ￥114, and n is 5 years. So the answer is (114/100)^(1/5)-1.\n\nQuestion 2: What is the average annual return of the S&P 500 index from 2007 to 2012?\nAnswer 2: Using the formula <Average Annual Return = [(Ending Value / Beginning Value)^(1/n) - 1] * 100>, where n is the number of years, we know the beginning value is 100 and the ending value is 109, and n is 5 years. So the answer is [(109/100)^(1/5)-1]*100.\n\nQuestion 3: What is the total return of the NAREIT all equity index from 2007 to 2012?\nAnswer 3: Using the formula <Total Return = (Ending Value - Beginning Value) / Beginning Value>, we know the beginning value is 100 and the ending value is 132. So the answer is (132-100)/100."
         ],
-        "doc_id": 198
+        "doc_id": 151
     },
     {
         "select_gpt_table": [
@@ -8732,7 +8732,7 @@
         "qa": [
             "Question 1: What is the Free Cash Flow in 2010?\nAnswer 1: Using the formula <Free Cash Flow = Cash Flow from Operating Activities - Capital Spending>, we need to subtract the Capital Spending from the Cash Flow from Operating Activities in 2010 to get the Free Cash Flow.\n\nQuestion 2: What is the change in the Cash Flow from Financing Activities from 2009 to 2010?\nAnswer 2: Using the formula <Change in Cash Flow from Financing Activities = Cash Flow from Financing Activities (Year N) - Cash Flow from Financing Activities (Year N-1)>, we need to subtract the Cash Flow from Financing Activities in 2009 from that in 2010 to get the change.\n\nQuestion 3: What is the Cash Flow from Operations in 2010 after adjusting for the change in accounts receivable accounting?\nAnswer 3: Using the formula <Adjusted Cash Flow from Operations = Reported Cash Flow from Operations + Adjustment for Accounts Receivable>, we need to add the adjustment for the change in accounts receivable accounting to the reported Cash Flow from Operations in 2010 to get the adjusted Cash Flow from Operations.\n\nQuestion 4: What is the net change in cash flow from 2008 to 2010?\nAnswer 4: Using the formula <Net Change in Cash Flow = Cash Flow (Year N) - Cash Flow (Year N-2)>, we need to subtract the total Cash Flow in 2008 from that in 2010 to get the net change in cash flow."
         ],
-        "doc_id": 199
+        "doc_id": 152
     },
     {
         "select_gpt_table": [
@@ -8791,7 +8791,7 @@
         "qa": [
             "Question 1: What is the Weighted Average Maturity of the company's debt obligations?\nAnswer 1: Using the formula <Weighted Average Maturity = (Payments due by period less than 1 year * 0.5) + (Payments due by period 1-3 years * 2) + (Payments due by period 3-5 years * 4) + (Payments due by period more than 5 years * 7) / Total debt>, we can use the values from the table to calculate this.\n\nQuestion 2: What is the company's Total Debt to Equity ratio?\nAnswer 2: To calculate this, we would use the formula <Total Debt to Equity = Total Debt / Total Equity>. However, this report does not provide the total equity, so we cannot calculate it directly from this report.\n\nQuestion 3: What is the Foreign Exchange Gain or Loss for the company?\nAnswer 3: The formula for Foreign Exchange Gain or Loss is <Foreign Exchange Gain or Loss = (Ending Exchange Rate - Beginning Exchange Rate) * Foreign Currency Balance>. This report mentions a decrease in the TD/USD exchange rate and a net foreign currency loss at Garmin Corporation, but does not provide all the necessary values to calculate the exact gain or loss.\n\nQuestion 4: What is the Net Change in Cash and Cash Equivalents for the company?\nAnswer 4: The formula for Net Change in Cash and Cash Equivalents is <Net Change in Cash and Cash Equivalents = Cash at the End of the Period - Cash at the Beginning of the Period>. This report does not provide these values, so we cannot calculate it directly from this report."
         ],
-        "doc_id": 200
+        "doc_id": 153
     },
     {
         "select_gpt_table": [
@@ -8842,7 +8842,7 @@
         "qa": [
             "Question 1: What is the Free Cash Flow for the firm in 2014?\nAnswer 1: Using the formula <Free Cash Flow = Cash provided by operating activities - Cash used in investing activities>, we know Cash provided by operating activities is ￥7385 million and Cash used in investing activities is ￥4249 million. So the answer is 7385-4249=￥3136 million.\n\nQuestion 2: What is the Cash Flow from Assets for 2014?\nAnswer 2: Using the formula <Cash Flow from Assets = Cash Flow from Operating Activities + Cash Flow from Investing Activities>, we know Cash Flow from Operating Activities is ￥7385 million and Cash Flow from Investing Activities is -￥4249 million. So the answer is 7385-4249=￥3136 million.\n\nQuestion 3: What is the change in Net Working Capital for 2014?\nAnswer 3: Using the formula <Change in Net Working Capital = Cash Flow from Operating Activities - Net Income>, we need the Net Income for 2014 which is not provided in the report.\n\nQuestion 4: What is the Cash Return on Assets for 2014?\nAnswer 4: Using the formula <Cash Return on Assets = Cash Flow from Operating Activities / Total Assets>, we need the Total Assets for 2014 which is not provided in the report. \n\nQuestion 5: What is the Cash Flow Adequacy Ratio for 2014?\nAnswer 5: Using the formula <Cash Flow Adequacy Ratio = Cash Flow from Operations / Capital Expenditures>, we need the Capital Expenditures for 2014 which is not provided in the report."
         ],
-        "doc_id": 201
+        "doc_id": 154
     },
     {
         "select_gpt_table": [
@@ -8927,7 +8927,7 @@
         "qa": [
             "Question 1: What is the Effective Interest Rate on the 2019 notes?\nAnswer 1: The Effective Interest Rate can be calculated using the formula <Effective Interest Rate = [1 + (Nominal Rate / Number of Compounding periods)] ^ (Number of Compounding periods) - 1>. Here, we know the Nominal Rate is 5.00% for the 2019 notes, but we don't have information on the number of compounding periods. \n\nQuestion 2: What is the Debt to Equity ratio for the year 2013?\nAnswer 2: The Debt to Equity ratio can be calculated using the formula <Debt to Equity Ratio = Total Debt / Total Equity>. However, we do not have the total equity value for the year 2013 in the report.\n\nQuestion 3: What is the total cost of all the notes issued in 2013 including the amortized discount and debt issuance costs?\nAnswer 3: The total cost can be calculated using the formula <Total Cost = Carrying Value + Unamortized Discount + Debt Issuance Costs>. We have the carrying value and unamortized discount for the notes issued in 2013, but we don't have the exact debt issuance costs for these notes. \n\nQuestion 4: What is the weighted average cost of capital (WACC) for the company in 2013?\nAnswer 4: WACC can be calculated using the formula <WACC = [(Cost of Equity * Percentage of Equity) + (Cost of Debt * Percentage of Debt * (1 - Tax Rate))]. In the report, we don't have the cost of equity, percentage of equity, percentage of debt, or the tax rate for the company in 2013. \n\nQuestion 5: What is the current ratio for the company in 2013?\nAnswer 5: The Current Ratio can be calculated using the formula <Current Ratio = Current Assets / Current Liabilities>. However, we do not have the values for current assets or current liabilities for the year 2013 in the report."
         ],
-        "doc_id": 202
+        "doc_id": 155
     },
     {
         "select_gpt_table": [
@@ -8982,7 +8982,7 @@
         "qa": [
             "Question 1: What is the Weighted Average Cost of Debt for Sysco in 2006?\nAnswer 1: Using the formula <Weighted Average Cost of Debt = (Fixed Rate Debt / Total Debt * Fixed Interest Rate) + (Floating Rate Debt / Total Debt * Floating Interest Rate)>, we know the Total Debt is ￥ 1762692000, the Fixed Rate Debt is 75% of the Total Debt, the Fixed Interest Rate is 6.0%, the Floating Rate Debt is 25% of the Total Debt, and the Floating Interest Rate is 5.2%.\n\nQuestion 2: What is the Debt to Equity Ratio for Sysco in 2006?\nAnswer 2: Using the formula <Debt to Equity Ratio = Total Debt / Total Equity>, we can obtain the Total Debt but we would need the Total Equity, which is not given in the report.\n\nQuestion 3: What is the annual rental expense growth rate from 2004 to 2006?\nAnswer 3: Using the formula <Annual Growth Rate = (Final Value / Initial Value)^(1 / Number of Years) - 1>, the initial value is the rental expense in 2004 (￥86842000), and the final value is the rental expense in 2006 (￥100690000).\n\nQuestion 4: What is the Net Present Value (NPV) of lease payments from 2007 to 2011, assuming a discount rate of 5%?\nAnswer 4: Using the formula <NPV = ∑ (Cash inflow / (1 + Discount Rate) ^ Number of Periods)>, the cash inflows are the lease payments for each year from 2007 to 2011, and the discount rate is 5%. \n\nQuestion 5: What is the funding ratio of the defined benefit pension plan in 2006?\nAnswer 5: Using the formula <Funding Ratio = Plan Assets / Projected Benefit Obligations>, we would need the Plan Assets, which is not given in the report. The Projected Benefit Obligations are ￥327450000."
         ],
-        "doc_id": 204
+        "doc_id": 156
     },
     {
         "select_gpt_table": [
@@ -9037,7 +9037,7 @@
         "qa": [
             "Question 1: What is the Earnings Before Interest and Taxes (EBIT) for 2014?\nAnswer 1: Using the formula <EBIT = Operating Income + Other Operating Loss>, we need to find the values for Operating Income and Other Operating Loss.\n\nQuestion 2: What is the 2014 Return on Investment (ROI)?\nAnswer 2: Using the formula <ROI = Net Income / Cost of Investment>, we need to find the values for Net Income and Cost of Investment.\n\nQuestion 3: What is the growth rate of the new contract awards from 2013 to 2014?\nAnswer 3: Using the formula <Growth Rate = (Value in 2014 - Value in 2013) / Value in 2013>, we can calculate the growth rate of the new contract awards.\n\nQuestion 4: What is the conversion rate of the total backlog into sales for 2015?\nAnswer 4: Using the formula <Conversion Rate = Expected Conversion / Total Backlog>, we can calculate the conversion rate.\n\nQuestion 5: What is the Operating Profit Margin for 2014?\nAnswer 5: Using the formula <Operating Profit Margin = Operating Income / Total Revenues>, we need to find the values for Operating Income and Total Revenues."
         ],
-        "doc_id": 205
+        "doc_id": 157
     },
     {
         "select_gpt_table": [
@@ -9066,7 +9066,7 @@
         "qa": [
             "Question 1: What is the Compound Annual Growth Rate (CAGR) of Cadence Design Systems, Inc. from 1/2/2010 to 1/3/2015?\nAnswer 1: Using the formula <CAGR = [(Ending Value / Beginning Value) ^ (1/Number of Years)] - 1>, we can calculate the CAGR.\n\nQuestion 2: What is the average annual return of Cadence Design Systems, Inc. over the 5-year period?\nAnswer 2: Using the formula <Average Annual Return = [(Ending Value / Beginning Value) ^ (1/Number of Years)] - 1>, we can calculate the average annual return.\n\nQuestion 3: What is the Return on Investment (ROI) for Cadence Design Systems, Inc. from 1/2/2010 to 1/3/2015?\nAnswer 3: Using the formula <ROI = (Ending Value - Beginning Value) / Beginning Value>, we can calculate the ROI.\n\nQuestion 4: What is the annualized total return of Cadence Design Systems, Inc. over the 5-year period?\nAnswer 4: Using the formula <Annualized Total Return = [(Ending Value / Beginning Value) ^ (1/Number of Years)] - 1>, we can calculate the annualized total return.\n\nQuestion 5: What is the standard deviation of the returns of Cadence Design Systems, Inc. over the 5-year period?\nAnswer 5: Using the formula <Standard Deviation = sqrt[(sum of (x - mean) ^ 2) / (n - 1)]>, where x is the return for a given year, mean is the average return, and n is the number of years, we can calculate the standard deviation of the returns."
         ],
-        "doc_id": 206
+        "doc_id": 158
     },
     {
         "select_gpt_table": [
@@ -9099,7 +9099,7 @@
         "qa": [
             "Question 1: What is the Net Debt in 2018?\nAnswer 1: Using the formula <Net Debt = Total Debt - Cash and Cash Equivalents>, we can deduce the Total Debt from the losses on debt extinguishment and assume that Cash and Cash Equivalents do not exist.\n\nQuestion 2: What is the Return on Equity for 2018?\nAnswer 2: Using the formula <Return on Equity = Net Income / Shareholder’s Equity>, we can deduce the Net Income from the other income (expense) net and assume that Shareholder’s Equity does not exist.\n\nQuestion 3: What is the Effective Tax Rate for 2017?\nAnswer 3: Using the formula <Effective Tax Rate = Income Tax Expense / Earnings Before Tax>, we can deduce the Income Tax Expense from the pre-tax charge to earnings in fiscal year 2017 and assume that Earnings Before Tax do not exist.\n\nQuestion 4: What is the Earnings Per Share in 2016?\nAnswer 4: Using the formula <Earnings Per Share = Net Income / Outstanding Shares>, we can deduce the Net Income from the other income (expense) net and assume that Outstanding Shares do not exist."
         ],
-        "doc_id": 207
+        "doc_id": 159
     },
     {
         "select_gpt_table": [
@@ -9172,7 +9172,7 @@
         "qa": [
             "Question 1: What is the Return on Equity (ROE) for the Bermuda subsidiaries in 2010?\nAnswer 1: Using the formula <ROE = Net Income / Shareholder's Equity>, we know the net income is ￥2430 million and the shareholder's equity (statutory capital and surplus) is ￥11798 million. \n\nQuestion 2: What is the Dividend Payout Ratio for the Bermuda subsidiaries in 2010 if the dividends paid were ￥500 million?\nAnswer 2: Using the formula <Dividend Payout Ratio = Dividends / Net Income>, we know the dividends is ￥500 million and the net income is ￥2430 million. \n\nQuestion 3: What is the Debt to Equity Ratio for the Bermuda subsidiaries in 2010 if the total liabilities were ￥4000 million?\nAnswer 3: Using the formula <Debt to Equity Ratio = Total Liabilities / Shareholder's Equity>, we know the total liabilities is ￥4000 million and the shareholder's equity (statutory capital and surplus) is ￥11798 million. \n\nQuestion 4: What is the Net Profit Margin for the Bermuda subsidiaries in 2010 if the total revenue was ￥10000 million?\nAnswer 4: Using the formula <Net Profit Margin = Net Income / Total Revenue>, we know the net income is ￥2430 million and the total revenue is ￥10000 million. \n\nQuestion 5: What is the Current Ratio for the Bermuda subsidiaries in 2010 if the current liabilities were ￥2000 million?\nAnswer 5: Using the formula <Current Ratio = Current Assets / Current Liabilities>, we need to know the current assets. As the report does not provide this information, we can't calculate the Current Ratio."
         ],
-        "doc_id": 208
+        "doc_id": 160
     },
     {
         "select_gpt_table": [
@@ -9237,7 +9237,7 @@
         "qa": [
             "Question 1: What is the Net Foreign Exchange Exposure for 2010?\nAnswer 1: Using the formula <Net Foreign Exchange Exposure = Sum of all foreign currency assets - Sum of all foreign currency liabilities>, we can calculate the exposure using the provided values in the table for each currency. \n\nQuestion 2: What is the Net Interest Payment for the year 2008?\nAnswer 2: Using the formula <Net Interest Payment = Interest Paid - Interest Received>, we can calculate the net interest payment for the year 2008. The company paid approximately A13 million in interest and received approximately ¥16 million in interest.\n\nQuestion 3: What is the Total Debt after the settlement of the cross currency swap arrangements in June 2008?\nAnswer 3: Using the formula <Total Debt = Initial Debt - Debt Paid>, we can calculate the total debt after the settlement. The company owed A276 million (¥426 million) and paid ¥93 million in June 2008. \n\nQuestion 4: What is the Total Financial Exposure after dedesignating A385 million of the A400 million euro-denominated portion of the term loan?\nAnswer 4: Using the formula <Total Financial Exposure = Initial Exposure - Dedesignated Exposure>, we can calculate the total financial exposure after dedesignation. The company initially had a A400 million euro-denominated exposure and dedesignated A385 million. \n\nQuestion 5: What is the Net Mark-to-Market Loss in 2007?\nAnswer 5: Using the formula <Net Mark-to-Market Loss = Mark-to-Market Losses - Mark-to-Market Gains>, we can calculate the net mark-to-market loss for 2007. The company recorded ¥26 million of mark-to-market losses related to the cross currency swaps and the new senior euro term loan during this period."
         ],
-        "doc_id": 209
+        "doc_id": 161
     },
     {
         "select_gpt_table": [
@@ -9292,7 +9292,7 @@
         "qa": [
             "Question 1: What is the Return on Investment for 2015?\nAnswer 1: Using the formula <Return on Investment = (Net Profit / Cost of Investment) * 100>, we know the net profit is pre-tax investment income minus pre-tax realized net capital losses, and the cost of investment is the average investments. So the answer is ((473.8 - (-184.1)) / 17430.8) * 100.\n\nQuestion 2: What is the Earnings Yield for 2015?\nAnswer 2: Using the formula <Earnings Yield = Earnings per Share / Market Price per Share>, we know the earnings per share is pre-tax investment income divided by the number of shares, and the market price per share is the market value of the investment divided by the number of shares. We need to know the number of shares and the market value of the investment to get the answer.\n\nQuestion 3: What is the Capital Asset Pricing Model (CAPM) for 2015?\nAnswer 3: Using the formula <CAPM = Risk-Free Rate + Beta * (Market Return - Risk-Free Rate)>, we need to know the risk-free rate, the beta (systematic risk) of the investment, and the market return to get the answer. \n\nQuestion 4: What is the Weighted Average Cost of Capital (WACC) for 2015?\nAnswer 4: Using the formula <WACC = (Cost of Equity * Proportion of Equity) + (Cost of Debt * Proportion of Debt * (1 - Tax Rate))>, we need to know the cost of equity, the proportion of equity, the cost of debt, the proportion of debt, and the tax rate to get the answer. \n\nQuestion 5: What is the Debt to Equity Ratio for 2015?\nAnswer 5: Using the formula <Debt to Equity Ratio = Total Debt / Total Equity>, we need to know the total debt and the total equity to get the answer."
         ],
-        "doc_id": 210
+        "doc_id": 162
     },
     {
         "select_gpt_table": [
@@ -9357,7 +9357,7 @@
         "qa": [
             "Question 1: What was the Dividend Payout Ratio in 2008 if the firm's net income was ￥3.3 billion?\nAnswer 1: Using the formula <Dividend Payout Ratio = Dividends / Net Income>, we know the Dividend Payout Ratio is 114% and the net income is ￥3.3 billion, so we can calculate the dividends.\n\nQuestion 2: What was the percentage change in the common dividend payout ratio from 2007 to 2008?\nAnswer 2: Using the formula <Percentage Change = (New Value - Old Value) / Old Value * 100>, we know the common dividend payout ratio in 2007 is 34% and in 2008 is 114%, so we can calculate the percentage change.\n\nQuestion 3: What is the Earnings Per Share (EPS) in 2008 if the firm's net income was ￥3.3 billion and there were 284 million shares of common stock?\nAnswer 3: Using the formula <EPS = Net Income / Number of Shares>, we know the net income is ￥3.3 billion and the number of shares is 284 million, so we can calculate the EPS.\n\nQuestion 4: What is the Price to Earnings Ratio (P/E) in 2008 if the market price per share was ￥40.50 and the EPS was calculated in the previous question?\nAnswer 4: Using the formula <P/E = Market Price Per Share / EPS>, we know the market price per share is ￥40.50 and the EPS is calculated in the previous question, so we can calculate the P/E ratio.\n\nQuestion 5: What was the firm's Dividend Yield in 2008 if the dividend per share was ￥0.38 and the market price per share was ￥40.50?\nAnswer 5: Using the formula <Dividend Yield = Dividend Per Share / Market Price Per Share>, we know the dividend per share is ￥0.38 and the market price per share is ￥40.50, so we can calculate the Dividend Yield."
         ],
-        "doc_id": 211
+        "doc_id": 163
     },
     {
         "select_gpt_table": [
@@ -9388,7 +9388,7 @@
         "qa": [
             "Question 1: What is the present value of the future minimum lease payments as of May 31, 2013?\nAnswer 1: Using the formula <Present Value = Future Value / (1 + Discount Rate)^n>, we know the future minimum lease payments for each year, but we don't know the discount rate or n (number of periods). \n\nQuestion 2: What is the annual growth rate of the future minimum lease payments from 2014 to 2018?\nAnswer 2: Using the formula <Growth Rate = [(Future Value / Present Value) ^ (1/n)] - 1>, we know the future and present values for each year, but we don't know n (number of periods).\n\nQuestion 3: If the company is expected to maintain the same level of future minimum lease payments thereafter as in 2018, what is the perpetuity value of these payments?\nAnswer 3: Using the formula <Perpetuity Value = Payment / Discount Rate>, we know the payment (which is the same as the future minimum lease payment in 2018), but we don't know the discount rate. \n\nQuestion 4: If the company decides to pay off all future minimum lease payments at once in 2013, what would be the lump sum amount?\nAnswer 4: This value is already provided in the financial report, no formula is needed. \n\nQuestion 5: If the company wants to maintain the same level of future minimum lease payments indefinitely, what is the annuity value of these payments?\nAnswer 5: Using the formula <Annuity Value = Payment / (Discount Rate * (1 - (1 + Discount Rate) ^ -n))>, we know the payment (which is the same as the future minimum lease payment in 2018), but we don't know the discount rate or n (number of periods)."
         ],
-        "doc_id": 212
+        "doc_id": 164
     },
     {
         "select_gpt_table": [
@@ -9455,7 +9455,7 @@
         "qa": [
             "Question 1: What is the Bad Debt Expense for 2010?\nAnswer 1: Using the formula <Bad Debt Expense = Beginning Allowance for Doubtful Accounts + Additions Charged to Expense - Accounts Written-off - Acquisitions>, we know that the Beginning Allowance for Doubtful Accounts is ￥ 55.2 million, Additions Charged to Expense is ￥ 23.6 million, and Accounts Written-off is ￥ 27.9 million. Assuming there were no acquisitions, the answer is 55.2+23.6-27.9=￥ 50.9 million.\n\nQuestion 2: What is the Net Receivables for 2010?\nAnswer 2: Using the formula <Net Receivables = Total Receivables - Allowance for Doubtful Accounts>, we know the Allowance for Doubtful Accounts is ￥ 50.9 million. The Total Receivables is not given in the report, but if it was, we could subtract the Allowance for Doubtful Accounts from it to get the Net Receivables.\n\nQuestion 3: What is the Debt Recovery Ratio for 2010?\nAnswer 3: Using the formula <Debt Recovery Ratio = (Beginning Allowance for Doubtful Accounts - Ending Allowance for Doubtful Accounts) / Accounts Written-off>, we know the Beginning Allowance for Doubtful Accounts is ￥ 55.2 million, the Ending Allowance for Doubtful Accounts is ￥ 50.9 million, and the Accounts Written-off is ￥ 27.9 million. Therefore, the answer is (55.2-50.9)/27.9.\n\nQuestion 4: What is the Change in Allowance for Doubtful Accounts from 2009 to 2010?\nAnswer 4: Using the formula <Change in Allowance for Doubtful Accounts = Ending Allowance for Doubtful Accounts - Beginning Allowance for Doubtful Accounts>, we know the Ending Allowance for Doubtful Accounts for 2010 is ￥ 50.9 million and the Beginning Allowance for Doubtful Accounts for 2010 is ￥ 55.2 million. Therefore, the answer is 50.9-55.2= -￥ 4.3 million."
         ],
-        "doc_id": 213
+        "doc_id": 165
     },
     {
         "select_gpt_table": [
@@ -9502,7 +9502,7 @@
         "qa": [
             "Question 1: What is the intrinsic value of the stock options granted?\nAnswer 1: Using the formula <Intrinsic Value = Stock Price - Exercise Price>, we need to know the stock price and the exercise price to find the answer.\n\nQuestion 2: What is the Black-Scholes value of the stock options?\nAnswer 2: Using the Black-Scholes formula <C = S0 * N(d1) - X * e^(-rt) * N(d2)>, where C is the theoretical call premium, S0 is the current stock price, X is the strike price, r is the risk-free interest rate, t is the time to maturity, N is a normal distribution, and d1 and d2 are calculated as:\nd1 = [ln(S0 / X) + (r + (s^2) / 2) * t] / (s * sqrt(t))\nd2 = d1 - s * sqrt(t)\nWe know the risk-free rate (0.41%), expected volatility (39.9%), expected life (3.6 years), and dividend (0.0%), but we need the current stock price and the strike price to find the answer.\n\nQuestion 3: What is the Weighted Average Cost of Capital (WACC) of the company after the acquisition?\nAnswer 3: Using the formula <WACC = (E/V) * Re + (D/V) * Rd * (1 - Tc)>, where E is the market value of equity, V is the total market value of equity and debt, Re is the cost of equity, D is the market value of debt, Rd is the cost of debt, and Tc is the corporate tax rate. We need the market value of equity, the total market value of equity and debt, the cost of equity, the market value of debt, the cost of debt, and the corporate tax rate to find the answer.\n\nQuestion 4: What is the Payback Period for the acquisition?\nAnswer 4: Using the formula <Payback Period = Initial Investment / Cash Inflow per Period>, we need to know the cash inflow per period to find the answer. \n\nQuestion 5: What is the Return on Investment (ROI) for the acquisition?\nAnswer 5: Using the formula <ROI = (Gain from Investment - Cost of Investment) / Cost of Investment>, we need to know the gain from the investment to find the answer."
         ],
-        "doc_id": 214
+        "doc_id": 166
     },
     {
         "select_gpt_table": [
@@ -9589,7 +9589,7 @@
         "qa": [
             "Question 1: What is the Effective Interest Rate of the Interest Rate Swap in 2001?\nAnswer 1: Using the formula <Effective Interest Rate = (1 + Interest Rate)^(1/n) - 1> where n is the number of compounding periods, and assuming annual compounding, we can substitute the known interest rate of 4.01% into the formula to find the effective interest rate.\n\nQuestion 2: What is the Net Present Value (NPV) of the Interest Rate Collar in 2001?\nAnswer 2: Using the formula <NPV = ∑ [Cash inflow/outflow / (1 + discount rate)^number of time periods]>, we can substitute the known cash inflows/outflows (fair value), discount rate (strike rate), and time period (maturity) into the formula to find the NPV.\n\nQuestion 3: What is the Financial Leverage Ratio for 2001?\nAnswer 3: Using the formula <Financial Leverage Ratio = Total Assets / Total Equity>, we can substitute the known total assets into the formula, but we need to know the total equity to calculate the Financial Leverage Ratio.\n\nQuestion 4: What is the Interest Coverage Ratio for the year 2001?\nAnswer 4: Using the formula <Interest Coverage Ratio = EBIT / Interest Expenses>, we can substitute the known EBIT (Net Operating Income) into the formula, but we need to know the interest expenses to calculate the Interest Coverage Ratio.\n\nQuestion 5: What is the Return on Assets (ROA) for the year 2001?\nAnswer 5: Using the formula <ROA = Net Income / Total Assets>, we can substitute the known total assets into the formula, but we need to know the net income to calculate the ROA."
         ],
-        "doc_id": 215
+        "doc_id": 167
     },
     {
         "select_gpt_table": [
@@ -9644,7 +9644,7 @@
         "qa": [
             "Question 1: What is the Current Ratio for the year 2008?\nAnswer 1: Using the formula <Current Ratio = Current Assets / Current Liabilities>, we can't calculate the current ratio as the Current Assets value is not mentioned in the report.\n\nQuestion 2: What is the Debt to Equity Ratio for the year 2008?\nAnswer 2: Using the formula <Debt to Equity Ratio = Total Debt / Total Equity>, we can't calculate the Debt to Equity Ratio as the Total Equity value is not mentioned in the report.\n\nQuestion 3: What is the Effective Annual Rate (EAR) for the convertible notes?\nAnswer 3: Using the formula <EAR = (1 + i/n)^(nt) - 1>, where i is the annual interest rate (3.00%) and n is the number of compounding periods per year (2, as interest is payable semi-annually), we can calculate the EAR. However, the exact time (t) is not specified in the report, so we cannot compute the EAR.\n\nQuestion 4: What is the Yield to Maturity (YTM) for the convertible notes due in 2012?\nAnswer 4: Using the formula <YTM = [(C + (F - P)/N)] / [(F + P)/2]>, where C is the annual coupon payment, F is the face value of the bond, P is the purchase price of the bond, and N is the number of years until maturity, we can't calculate the YTM as the purchase price (P) and annual coupon payment (C) values are not mentioned in the report. \n\nQuestion 5: What is the Earnings Before Interest and Tax (EBIT) for the year 2008?\nAnswer 5: Using the formula <EBIT = Revenue - Operating Expenses + Non-operating Income>, we can't calculate the EBIT as the Revenue, Operating Expenses and Non-operating Income values are not mentioned in the report."
         ],
-        "doc_id": 217
+        "doc_id": 168
     },
     {
         "select_gpt_table": [
@@ -9701,7 +9701,7 @@
         "qa": [
             "Question 1: What is the Debt Service Coverage Ratio in 2012?\nAnswer 1: Using the formula <Debt Service Coverage Ratio = Net Operating Income / Total Debt Service>, we can assume the Net Operating Income and calculate it based on the given values for debt principal and debt interest in 2012.\n\nQuestion 2: What is the Operating Cash Flow in 2011 if the Cash Conversion Cycle is 45 days?\nAnswer 2: Using the formula <Operating Cash Flow = Sales / Days in Cash Conversion Cycle>, we can calculate the Operating Cash Flow in 2011 assuming we know the Sales and using the given Cash Conversion Cycle.\n\nQuestion 3: What is the Interest Coverage Ratio in 2014?\nAnswer 3: Using the formula <Interest Coverage Ratio = EBIT / Interest Expense>, we can calculate the Interest Coverage Ratio in 2014 assuming we know the EBIT and using the given values for debt interest.\n\nQuestion 4: What is the Total Debt Ratio in 2013?\nAnswer 4: Using the formula <Total Debt Ratio = (Total Debt / Total Assets)>, we can calculate the Total Debt Ratio in 2013 assuming we know the Total Assets and using the given values for total debt principal and interest.\n\nQuestion 5: What is the Debt Equity Ratio in 2015?\nAnswer 5: Using the formula <Debt Equity Ratio = Total Debt / Total Equity>, we can calculate the Debt Equity Ratio in 2015 assuming we know the Total Equity and using the given values for total debt principal and interest."
         ],
-        "doc_id": 218
+        "doc_id": 169
     },
     {
         "select_gpt_table": [
@@ -9736,7 +9736,7 @@
         "qa": [
             "Question 1: What is the Debt Service Coverage Ratio (DSCR) for the period of less than 1 year?\nAnswer 1: Using the formula <Debt Service Coverage Ratio = Net Operating Income / Total Debt Service>, we need to know the Net Operating Income to calculate DSCR for the period of less than 1 year.\n\nQuestion 2: What is the total amount of contractual obligations due within the next 3 years?\nAnswer 2: Using the formula <Total Contractual Obligations Due Within Next 3 Years = Payments Due By Period Less Than 1 Year + Payments Due By Period 1-3 Years>, we can calculate the total amount of obligations due within the next 3 years.\n\nQuestion 3: What is the Interest Coverage Ratio for the period of less than 1 year?\nAnswer 3: Using the formula <Interest Coverage Ratio = Earnings Before Interest and Taxes / Interest Expenses>, we need to know the Earnings Before Interest and Taxes to calculate the Interest Coverage Ratio for the period of less than 1 year.\n\nQuestion 4: What is the Debt Ratio for the period of less than 1 year?\nAnswer 4: Using the formula <Debt Ratio = Total Debt / Total Assets>, we need to know the Total Assets to calculate the Debt Ratio for the period of less than 1 year.\n\nQuestion 5: What is the Equity Ratio for the period of less than 1 year?\nAnswer 5: Using the formula <Equity Ratio = Total Equity / Total Assets>, we need to know the Total Equity and Total Assets to calculate the Equity Ratio for the period of less than 1 year."
         ],
-        "doc_id": 219
+        "doc_id": 170
     },
     {
         "select_gpt_table": [
@@ -9801,7 +9801,7 @@
         "qa": [
             "Question 1: What is the Interest Coverage Ratio for 2002?\nAnswer 1: Using the formula <Interest Coverage Ratio = EBIT / Interest Expense>, we need to know the Earnings Before Interest and Taxes (EBIT) in 2002, which is not provided in the report.\n\nQuestion 2: What is the Debt Service Coverage Ratio for 2002?\nAnswer 2: Using the formula <Debt Service Coverage Ratio = Net Operating Income / Total Debt Service>, we need to know the Net Operating Income and Total Debt Service in 2002, which are not provided in the report.\n\nQuestion 3: What is the Return on Equity for 2002?\nAnswer 3: Using the formula <Return on Equity = Net Income / Shareholder’s Equity>, we need to know the Net Income and Shareholder’s Equity in 2002, which are not provided in the report.\n\nQuestion 4: What is the Total Debt to Equity Ratio for 2002?\nAnswer 4: Using the formula <Total Debt to Equity Ratio = Total Debt / Total Equity>, we need to know the Total Debt and Total Equity in 2002, which are not provided in the report.\n\nQuestion 5: What is the Asset Turnover Ratio for 2002?\nAnswer 5: Using the formula <Asset Turnover Ratio = Net Sales / Total Assets>, we need to know the Net Sales and Total Assets in 2002, which are not provided in the report."
         ],
-        "doc_id": 221
+        "doc_id": 171
     },
     {
         "select_gpt_table": [
@@ -9852,7 +9852,7 @@
         "qa": [
             "Question 1: What is the Dividend Payout Ratio for the fiscal year 2018?\nAnswer 1: Using the formula <Dividend Payout Ratio = Dividends per Share / Earnings per Share>, we can get Dividends per Share from the report, but Earnings per Share is missing. We need the value of Earnings per Share to calculate Dividend Payout Ratio.\n\nQuestion 2: What is the Dividend Yield for the fiscal year 2018?\nAnswer 2: Using the formula <Dividend Yield = Annual Dividends per Share / Price per Share>, we can get Annual Dividends per Share from the report, but Price per Share is missing. We need the value of Price per Share to calculate Dividend Yield.\n\nQuestion 3: What is the percentage of the remaining share repurchase authorization as of 30 September 2018 compared to the original authorization on 15 September 2011?\nAnswer 3: Using the formula <Percentage of remaining authorization = (Remaining Authorization / Original Authorization) * 100>, we know Remaining Authorization is ￥485.3 million and Original Authorization is ￥1.0 billion from the report, so the answer is (485.3 / 1000) * 100 = 48.53%.\n\nQuestion 4: What is the Earnings per Share (EPS) for fiscal year 2018?\nAnswer 4: Using the formula <Earnings per Share = (Net Income - Dividends on Preferred Stock) / Average Outstanding Shares>, we know Dividends on Preferred Stock is ￥4.25 per share from the report, but Net Income and Average Outstanding Shares are missing. We need the values of Net Income and Average Outstanding Shares to calculate Earnings per Share. \n\nQuestion 5: What is the Price/Earnings (P/E) ratio for fiscal year 2018?\nAnswer 5: Using the formula <Price/Earnings Ratio = Market Value per Share / Earnings per Share>, we can get Earnings per Share from the answer to Question 4, but Market Value per Share is missing. We need the value of Market Value per Share to calculate Price/Earnings Ratio."
         ],
-        "doc_id": 222
+        "doc_id": 172
     },
     {
         "select_gpt_table": [
@@ -9891,7 +9891,7 @@
         "qa": [
             "Question 1: What was the Net Currency Exchange Gain/Loss for the year 2009?\nAnswer 1: Using the formula <Net Currency Exchange Gain/Loss = Unrealized Foreign Currency Exchange Rate Gains/Losses + Realized Foreign Currency Exchange Rate Gains/Losses>, the answer can be calculated as ￥5222 - ￥261 = ￥4961.\n\nQuestion 2: What was the Net Derivative Gain/Loss for the year 2009?\nAnswer 2: Using the formula <Net Derivative Gain/Loss = Unrealized Derivative Gains/Losses + Realized Derivative Losses>, the answer can be calculated as -￥1060 - ￥4412 = -￥5472.\n\nQuestion 3: What was the total Gain/Loss from both Currency Exchange and Derivatives for the year 2009?\nAnswer 3: Using the formula <Total Gain/Loss = Net Currency Exchange Gain/Loss + Net Derivative Gain/Loss>, the answer can be calculated as ￥4961 - ￥5472 = -￥511.\n\nQuestion 4: What was the Effective Exchange Rate for the European subsidiary in 2009?\nAnswer 4: Using the formula <Effective Exchange Rate = Notional Value of Foreign Currency Forward Contracts / US dollars received>, we need the amount of US dollars received, which is not provided in the report. \n\nQuestion 5: What was the Change in Fair Value of the Foreign Currency Forward Contracts from 2008 to 2009?\nAnswer 5: Using the formula <Change in Fair Value = Fair Value in Current Year - Fair Value in Previous Year>, the answer can be calculated as ￥0.3 million - ￥1.2 million = -￥0.9 million."
         ],
-        "doc_id": 223
+        "doc_id": 173
     },
     {
         "select_gpt_table": [
@@ -9930,7 +9930,7 @@
         "qa": [
             "Question 1: What would be the value of the option for an employee if the volatility in 2012 had been 25% instead of 24%?\nAnswer 1: Using the formula for the Black-Scholes option pricing model, we can calculate this. However, the exact formula is complex and requires several variables, including the strike price, the risk-free rate, the time to expiration, the volatility and the dividend yield. With the given information, we cannot provide a precise answer.\n\nQuestion 2: How much additional income could the company have generated in 2012 if the risk-free interest rate had been 1.0% instead of 0.8%?\nAnswer 2: To answer this question, we would need to know the total amount of the company's investments and apply the formula <Additional Income = (New Interest Rate - Old Interest Rate) * Total Investments>. However, the total amount of the company's investments is not provided in the report.\n\nQuestion 3: What would be the change in the value of the employee stock options if the expected life of the options increased by 1 year in 2012?\nAnswer 3: The change in the value of the options can be calculated using the Black-Scholes option pricing model. However, the exact formula is complex and requires several variables, including the strike price, the risk-free rate, the time to expiration, the volatility and the dividend yield. With the given information, we cannot provide a precise answer. \n\nQuestion 4: How much more stock could employees have purchased in 2012 if the maximum percentage of eligible compensation that could be deducted for the employee stock purchase plan had been increased to 25% from 20%?\nAnswer 4: To answer this question, we would need to know the total eligible compensation of the employees and apply the formula <Additional Stock Purchased = (New Percentage - Old Percentage) * Total Eligible Compensation / Purchase Price>. However, the total eligible compensation is not provided in the report. \n\nQuestion 5: What would have been the company's expenses for the defined contribution plan in 2012 if the company had made a discretionary matching contribution of ¥10 million?\nAnswer 5: The company's expenses for the defined contribution plan would have been ¥42 million + ¥10 million = ¥52 million."
         ],
-        "doc_id": 224
+        "doc_id": 174
     },
     {
         "select_gpt_table": [
@@ -9973,7 +9973,7 @@
         "qa": [
             "Question 1: What was the Tier 1 Leverage Ratio for Goldman Sachs in 2017?\nAnswer 1: Using the formula <Tier 1 Leverage Ratio = Tier 1 Capital / Average Adjusted Total Assets>, we can calculate the ratio for 2017. \n\nQuestion 2: What was the Change in Supplementary Leverage Ratio from 2016 to 2017?\nAnswer 2: This can be calculated using the formula <Change in Supplementary Leverage Ratio = Supplementary Leverage Ratio (year 2) - Supplementary Leverage Ratio (year 1)>. \n\nQuestion 3: What was the Total Capital Ratio in 2017?\nAnswer 3: Using the formula <Total Capital Ratio = (Tier 1 Capital + Qualifying Subordinated Debt) / Risk Weighted Assets>, we need more information to calculate Risk Weighted Assets. \n\nQuestion 4: What was the change in Tier 1 Capital from 2016 to 2017?\nAnswer 4: This can be calculated using the formula <Change in Tier 1 Capital = Tier 1 Capital (year 2) - Tier 1 Capital (year 1)>. \n\nQuestion 5: What was the Off-Balance-Sheet Leverage Ratio in 2017?\nAnswer 5: Using the formula <Off-Balance-Sheet Leverage Ratio = Off-Balance-Sheet Exposures / Average Adjusted Total Assets>, we can calculate the ratio for 2017."
         ],
-        "doc_id": 225
+        "doc_id": 175
     },
     {
         "select_gpt_table": [
@@ -10026,7 +10026,7 @@
         "qa": [
             "Question 1: What was the Net Trading Assets in 2009?\nAnswer 1: Using the formula <Net Trading Assets = Trading Assets - Trading Liabilities>, where Trading Assets = Debt and Equity Instruments + Derivative Receivables, and Trading Liabilities = Debt and Equity Instruments + Derivative Payables. \n\nQuestion 2: What is the change in Derivative Receivables from 2008 to 2009?\nAnswer 2: Using the formula <Change in Derivative Receivables = Derivative Receivables (2009) - Derivative Receivables (2008)>\n\nQuestion 3: What is the percentage change in Debt and Equity Instruments (Trading Assets) from 2007 to 2009?\nAnswer 3: Using the formula <Percentage Change = [(Value in 2009 - Value in 2007) / Value in 2007] * 100%>\n\nQuestion 4: What is the ratio of Derivative Payables to Debt and Equity Instruments (Trading Liabilities) in 2009?\nAnswer 4: Using the formula <Ratio = Derivative Payables / Debt and Equity Instruments (Trading Liabilities)>\n\nQuestion 5: What is the Debt and Equity Instruments (Trading Assets) turnover from 2007 to 2009?\nAnswer 5: Using the formula <Turnover = (Debt and Equity Instruments in 2009 - Debt and Equity Instruments in 2007) / (Debt and Equity Instruments in 2007)>"
         ],
-        "doc_id": 226
+        "doc_id": 176
     },
     {
         "select_gpt_table": [
@@ -10057,7 +10057,7 @@
         "qa": [
             "Question 1: What is the average annual increase in rent expense from 2012 to 2014?\nAnswer 1: Using the formula <Average Annual Increase = [(End Value/Start Value)^(1/Number of Years) - 1]>, we know the Start Value is ¥419.0 million in 2012, the End Value is ¥655.0 million in 2014, and the Number of Years is 3. So the answer can be calculated with this formula.\n\nQuestion 2: What is the present value of future lease obligations discounted at an annual interest rate of 5%?\nAnswer 2: We can use the formula for present value of an annuity: <Present Value = C * [(1 - (1 + r)^-n ) / r]>, where C is the annual cash flow (lease payment), r is the interest rate (5% or 0.05), and n is the number of years. As the lease payments vary by year, we need to calculate the present value of each year's lease payment separately and then sum them up.\n\nQuestion 3: What is the Compound Annual Growth Rate (CAGR) of the rent expense from 2012 to 2014?\nAnswer 3: Using the formula <CAGR = (End Value / Start Value)^(1 / Number of Years) - 1>, we know the Start Value is ¥419.0 million in 2012, the End Value is ¥655.0 million in 2014, and the Number of Years is 3. So the answer can be calculated with this formula. \n\nQuestion 4: What is the ratio of the total future minimum rental payments to the aggregate rent expense in 2014?\nAnswer 4: Using the formula <Ratio = Total Future Minimum Rental Payments / Aggregate Rent Expense>, we know the Total Future Minimum Rental Payments is ¥6903188 thousand and the Aggregate Rent Expense is ¥655.0 million. So the answer can be calculated with this formula. \n\nQuestion 5: What is the annual depreciation expense if the total lease obligations are depreciated straight-line over 10 years?\nAnswer 5: Using the formula <Annual Depreciation Expense = (Total Lease Obligations / Useful Life)>, we know the Total Lease Obligations is ¥6903188 thousand and the Useful Life is 10 years. So the answer can be calculated with this formula."
         ],
-        "doc_id": 227
+        "doc_id": 177
     },
     {
         "select_gpt_table": [
